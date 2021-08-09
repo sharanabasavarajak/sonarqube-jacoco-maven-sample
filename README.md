@@ -20,4 +20,4 @@ For publishing jacoco reports to sonarqube setup new profile with your credentia
 
 Run `mvn -Prun-its clean install && mvn sonar:sonar`
 
-Checkout project dashboard in SonarQube
+Checkout project dashboard in SonarQube i
